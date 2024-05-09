@@ -22,14 +22,14 @@ _**Glue Tables:**_
 * [customer_landing.sql](./scrips/customer_landing.sql)
 * [accelerometer_landing.sql](./scrips/accelerometer_landing.sql)
 
->_***customer_landing table:***_
+>***customer_landing table:***_
 
-    <img src="./screenshots/customer_landing.png">
+    <img src="./screenshots/customer_landing.PNG">
 
->_***accelerometer_landing` table:***_ 
+ ***accelerometer_landing` table:***_ 
 
-    <img src="./screenshots/accelerometer_landing.png">
+    <img src="./screenshots/accelerometer_landing.PNG">
 
->_***record count check for each landing zone table:***_ 
+ ***record count check for each landing zone table:***_ 
 
-    <img src="./screenshots/customer_accelerometer_landing_rowcount.png">
+    <img src="./screenshots/customer_accelerometer_landing_rowcount.PNG">
