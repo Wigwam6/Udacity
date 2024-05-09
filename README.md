@@ -20,10 +20,17 @@ Some of the early adopters have agreed to share their data for research purposes
 
 _**Glue Tables:**_ 
 * [customer_landing.sql](./scripts/customer_landing.sql)
-* [accelerometer_landing.sql](./scripts/accelerometer_landing.sql) <br>
-
+* [accelerometer_landing.sql](./scripts/accelerometer_landing.sql) 
+<br>
 
 **customer landing table:**
 
 ![customer_landing](/screenshots/customer_landing.png)
 
+**accelerometer landing table:**
+
+![customer_landing](/screenshots/accelerometer_landing.png)
+
+**row_count check:**
+
+![customer_landing](/screenshots/customer_accelerometer_landing_rowcount.png)
