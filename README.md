@@ -24,11 +24,11 @@ _**Glue Tables:**_
 
  ***customer_landing table:***_
 
-    <img src="./screenshots/customer_landing.PNG">
+    <img src="./Udacity/screenshots/customer_landing.PNG">
 
  ***accelerometer_landing` table:***_ 
 
-    ![accelerometer_landing](./screenshots/accelerometer_landing.PNG)
+    ![accelerometer_landing](.//accelerometer_landing.PNG)
 
  ***record count check for each landing zone table:***_ 
 
