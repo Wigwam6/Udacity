@@ -22,14 +22,4 @@ _**Glue Tables:**_
 * [customer_landing.sql](./scripts/customer_landing.sql)
 * [accelerometer_landing.sql](./scripts/accelerometer_landing.sql)
 
- ***customer_landing table:***
 
-    <img src="./screenshots/customer_landing.png">
-
- ***accelerometer_landing` table:***_ 
-
-    ![accelerometer_landing](accelerometer_landing.PNG)
-
- ***record count check for each landing zone table:***_ 
-
-    <img src="./screenshots/customer_accelerometer_landing_rowcount.PNG">
