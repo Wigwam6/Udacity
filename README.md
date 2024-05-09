@@ -22,4 +22,5 @@ _**Glue Tables:**_
 * [customer_landing.sql](./scripts/customer_landing.sql)
 * [accelerometer_landing.sql](./scripts/accelerometer_landing.sql)
 
+![customer_landing](/screenshots/customer_landing.png)
 
