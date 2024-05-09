@@ -19,7 +19,7 @@ Some of the early adopters have agreed to share their data for research purposes
 ## Landing Zone
 
 _**Glue Tables:**_ 
-* [customer_landing.sql](./scrips/customer_landing.sql)
+* [customer_landing.sql](main/scrips/customer_landing.sql)
 * [accelerometer_landing.sql](./scrips/accelerometer_landing.sql)
 
  ***customer_landing table:***_
