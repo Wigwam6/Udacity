@@ -23,14 +23,14 @@ _**Glue Tables:**_
 * [accelerometer_landing.sql](./scripts/accelerometer_landing.sql) 
 <br>
 
-**customer landing table:**
+**Customer Landing Table:**
 
 ![customer_landing](/screenshots/customer_landing.png)
 
-**accelerometer landing table:**
+**Accelerometer Landing Table:**
 
 ![customer_landing](/screenshots/accelerometer_landing.png)
 
-**row_count check:**
+**Row_count Check:**
 
 ![customer_landing](/screenshots/customer_accelerometer_landing_rowcount.png)
