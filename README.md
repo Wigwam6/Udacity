@@ -28,7 +28,7 @@ _**Glue Tables:**_
 
  ***accelerometer_landing` table:***_ 
 
-    <img src="./screenshots/accelerometer_landing.PNG">
+    ![accelerometer_landing](/screenshots/accelerometer_landing.PNG)
 
  ***record count check for each landing zone table:***_ 
 
