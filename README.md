@@ -22,7 +22,7 @@ _**Glue Tables:**_
 * [customer_landing.sql](./scrips/customer_landing.sql)
 * [accelerometer_landing.sql](./scrips/accelerometer_landing.sql)
 
->***customer_landing table:***_
+ ***customer_landing table:***_
 
     <img src="./screenshots/customer_landing.PNG">
 
