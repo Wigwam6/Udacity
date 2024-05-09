@@ -24,7 +24,7 @@ _**Glue Tables:**_
 
  ***customer_landing table:***_
 
-    <img src="./Udacity/screenshots/customer_landing.PNG">
+    <img src="./screenshots/customer_landing.png">
 
  ***accelerometer_landing` table:***_ 
 
