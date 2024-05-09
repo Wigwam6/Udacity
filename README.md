@@ -16,10 +16,10 @@ Some of the early adopters have agreed to share their data for research purposes
 
 ## Project Solution
 
-## Landing Zone
+### Landing Zone
 
-_**Glue Tables:**_ 
-* [customer_landing.sql](./scripts/customer_landing.sql)
+_**Glue Tables created from  JSON files in S3 bucket:**_
+* [customer_landing.sql](./scripts/customer_landing.sql) 
 * [accelerometer_landing.sql](./scripts/accelerometer_landing.sql) 
 <br>
 
@@ -34,3 +34,11 @@ _**Glue Tables:**_
 **Row_count Check:**
 
 ![customer_landing](/screenshots/customer_accelerometer_landing_rowcount.png)
+
+
+### Trusted Zone
+
+_**Glue jobs**_
+* [customer_landing_trusted.py](./scripts/customer_landing_trusted.py) 
+* [accelerometer_landing_trusted.py](./scripts/accelerometer_landing_trusted.py) 
+* [step_trainer_landing_trusted.py](./scripts/step_trainer_landing_trusted.py) 
