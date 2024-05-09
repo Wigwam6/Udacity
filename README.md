@@ -14,7 +14,7 @@ The STEDI team wants to use the motion sensor data to train a machine learning m
 
 Some of the early adopters have agreed to share their data for research purposes. **Only these customers’ Step Trainer and accelerometer data should be used in the training data for the machine learning model.**
 
-# Project Solution
+## Project Solution
 
 ## Landing Zone
 
