@@ -1,4 +1,4 @@
-# Project: STEDI Human Balance Analytics
+![image](https://github.com/Wigwam6/Udacity/assets/142514497/4c5a9a43-66d0-40fb-a6b9-49fa44a83525)# Project: STEDI Human Balance Analytics
 
 ## Brief introduction
 The STEDI Team has been hard at work developing a hardware STEDI Step Trainer that:
