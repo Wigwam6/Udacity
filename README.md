@@ -38,7 +38,11 @@ _**Glue Tables created from  JSON files in S3 bucket:**_
 
 ### Trusted Zone
 
-_**Glue jobs**_
+_**Glue jobs - In trusted zone only sanitized data should be stored.**_   
+**Customer data:** Customers, who agreed to share their data for research purposes.  
+**Accelerometer data:** Accelerometer readings from customers who agreed to share their data for research purposes.
+
+
 * [customer_landing_trusted.py](./scripts/customer_landing_trusted.py) 
 * [accelerometer_landing_trusted.py](./scripts/accelerometer_landing_trusted.py) 
 * [step_trainer_landing_trusted.py](./scripts/step_trainer_landing_trusted.py) 
