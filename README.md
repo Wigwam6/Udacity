@@ -40,7 +40,7 @@ _**Glue Tables created from  JSON files in S3 bucket:**_
  
 **Customer data:** Customers, who agreed to share their data for research purposes.  
 **Accelerometer data:** Accelerometer readings from customers who agreed to share their data for research purposes.  
-**Step trainer data:** Step Trainer Records for customers who have accelerometer data and have agreed to share their data for research
+**Step trainer data:** Step Trainer Records for customers who have accelerometer data and have agreed to share their data for research.
 
 _**Glue jobs to create trusted data:**_  
 
@@ -60,7 +60,7 @@ _**Glue jobs to create trusted data:**_
 
  
 **Customer data:** Only includes customers who have accelerometer data and have agreed to share their data for research.  
-**Machine learning curated:** Aggregated table that has each of the Step Trainer Readings, and the associated accelerometer reading data for the same timestamp, but only for customers who have agreed to share their data
+**Machine learning curated:** Aggregated table that has each of the Step Trainer Readings, and the associated accelerometer reading data for the same timestamp, but only for customers who have agreed to share their data.
 
 _**Glue jobs to create curated data:**_ 
 
