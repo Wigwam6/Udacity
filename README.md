@@ -56,7 +56,7 @@ _**Glue jobs to create trusted data:**_
 
 **Row_count Check:**
 
-![customer_accelerometer_trusted](/screenshots/customer_accelerometer_trusted_rowcount.png)
+![trusted_rowcount](/screenshots/trusted_row_count.png)
 
 ### Curated Zone
 
