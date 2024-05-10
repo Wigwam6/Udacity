@@ -20,7 +20,8 @@ Some of the early adopters have agreed to share their data for research purposes
 
 _**Glue Tables created from  JSON files in S3 bucket:**_
 * [customer_landing](./scripts/customer_landing.sql) 
-* [accelerometer_landing](./scripts/accelerometer_landing.sql) 
+* [accelerometer_landing](./scripts/accelerometer_landing.sql)
+* [step_trainer_landing](./scripts/step_trainer_landing.sql)
 <br>
 
 **Customer Landing Table:**
@@ -40,7 +41,7 @@ _**Glue Tables created from  JSON files in S3 bucket:**_
 
  
 **Customer data:** Customers, who agreed to share their data for research purposes.  
-**Accelerometer data:** Accelerometer readings from customers who agreed to share their data for research purposes.
+**Accelerometer data:** Accelerometer readings from customers who agreed to share their data for research purposes.  
 **Step trainer data:** Step Trainer Records for customers who have accelerometer data and have agreed to share their data for research
 
 _**Glue jobs to create trusted data:**_  
