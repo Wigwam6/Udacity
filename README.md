@@ -34,7 +34,7 @@ _**Glue Tables created from  JSON files in S3 bucket:**_
 
 **Row_count Check:**
 
-![customer_accelerometer_landing](/screenshots/customer_accelerometer_landing_rowcount.png)
+![landing_rowcount](/screenshots/landing_row_count.png)
 
 
 ### Trusted Zone
