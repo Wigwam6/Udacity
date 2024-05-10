@@ -19,8 +19,8 @@ Some of the early adopters have agreed to share their data for research purposes
 ### Landing Zone
 
 _**Glue Tables created from  JSON files in S3 bucket:**_
-* [customer_landing.sql](./scripts/customer_landing.sql) 
-* [accelerometer_landing.sql](./scripts/accelerometer_landing.sql) 
+* [customer_landing](./scripts/customer_landing.sql) 
+* [accelerometer_landing](./scripts/accelerometer_landing.sql) 
 <br>
 
 **Customer Landing Table:**
@@ -38,14 +38,16 @@ _**Glue Tables created from  JSON files in S3 bucket:**_
 
 ### Trusted Zone
 
-_**Glue jobs - In trusted zone only sanitized data should be stored.**_   
+ 
 **Customer data:** Customers, who agreed to share their data for research purposes.  
 **Accelerometer data:** Accelerometer readings from customers who agreed to share their data for research purposes.
+**Step trainer data:** Step Trainer Records for customers who have accelerometer data and have agreed to share their data for research
 
+_**Glue jobs to create trusted data:**_  
 
-* [customer_landing_trusted.py](./scripts/customer_landing_trusted.py) 
-* [accelerometer_landing_trusted.py](./scripts/accelerometer_landing_trusted.py) 
-* [step_trainer_landing_trusted.py](./scripts/step_trainer_landing_trusted.py) 
+* [customer_landing_trusted](./scripts/customer_landing_trusted.py) 
+* [accelerometer_landing_trusted](./scripts/accelerometer_landing_trusted.py) 
+* [step_trainer_landing_trusted](./scripts/step_trainer_landing_trusted.py) 
 
 **Customer Landing Table:**
 
@@ -55,3 +57,15 @@ _**Glue jobs - In trusted zone only sanitized data should be stored.**_
 
 ![customer_accelerometer_trusted](/screenshots/customer_accelerometer_trusted_rowcount.png)
 
+### Curated Zone
+
+ 
+**Customer data:** Only includes customers who have accelerometer data and have agreed to share their data for research.  
+**Machine learning curated:** Aggregated table that has each of the Step Trainer Readings, and the associated accelerometer reading data for the same timestamp, but only for customers who have agreed to share their data
+
+_**Glue jobs to create curated data:**_ 
+
+* [customer_trusted](./scripts/customer_trusted_curated.py) 
+* [machine_learning_curated](./scripts/machine_learning_curated.py)
+
+![customer_curated](/screenshots/customer_trusted.png)
