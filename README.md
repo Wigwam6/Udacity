@@ -67,8 +67,6 @@ _**Glue jobs to create curated data:**_
 * [customer_trusted](./scripts/customer_trusted_curated.py) 
 * [machine_learning_curated](./scripts/machine_learning_curated.py)
 
-![customer_curated](/screenshots/customer_trusted.png)
-
 **Row_count Check:**
 
 ![curated_rowcount](/screenshots/curated_row_count.png)
