@@ -48,7 +48,7 @@ _**Glue jobs to create trusted data:**_
 * [accelerometer_landing_trusted](./scripts/accelerometer_landing_trusted.py) 
 * [step_trainer_landing_trusted](./scripts/step_trainer_landing_trusted.py) 
 
-**Customer Landing Table:**
+**Customer Trusted Table:**
 
 ![customer_trusted](/screenshots/customer_trusted.png)
 
