@@ -1,4 +1,4 @@
-## Brief introduction
+![image](https://github.com/Wigwam6/Udacity/assets/142514497/8a46ab11-bb7a-42f2-9714-0c24f594ac2c)## Brief introduction
 The STEDI Team has been hard at work developing a hardware STEDI Step Trainer that:
 
 - trains the user to do a STEDI balance exercise;
@@ -70,5 +70,7 @@ _**Glue jobs to create curated data:**_
 ![customer_curated](/screenshots/customer_trusted.png)
 
 **Row_count Check:**
+
+![curated_rowcount](/screenshots/curated_row_count.png)
 
 
