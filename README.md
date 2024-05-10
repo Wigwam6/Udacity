@@ -29,11 +29,11 @@ _**Glue Tables created from  JSON files in S3 bucket:**_
 
 **Accelerometer Landing Table:**
 
-![customer_landing](/screenshots/accelerometer_landing.png)
+![accelerometer_landing](/screenshots/accelerometer_landing.png)
 
 **Row_count Check:**
 
-![customer_landing](/screenshots/customer_accelerometer_landing_rowcount.png)
+![customer_accelerometer_landing](/screenshots/customer_accelerometer_landing_rowcount.png)
 
 
 ### Trusted Zone
@@ -46,3 +46,12 @@ _**Glue jobs - In trusted zone only sanitized data should be stored.**_
 * [customer_landing_trusted.py](./scripts/customer_landing_trusted.py) 
 * [accelerometer_landing_trusted.py](./scripts/accelerometer_landing_trusted.py) 
 * [step_trainer_landing_trusted.py](./scripts/step_trainer_landing_trusted.py) 
+
+**Customer Landing Table:**
+
+![customer_trusted](/screenshots/customer_trusted.png)
+
+**Row_count Check:**
+
+![customer_accelerometer_trusted](/screenshots/customer_accelerometer_trusted_rowcount.png)
+
