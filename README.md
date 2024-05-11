@@ -72,4 +72,4 @@ _**Glue jobs to create curated data:**_
 
 ![curated_rowcount](/screenshots/curated_row_count.png)
 
-_**All screenshots(Athena tables included) can be found in "screenshots" folder:**_ * [screenshots](./scripts)
+_**All screenshots(Athena tables included) can be found in "screenshots" folder:**_ * [screenshots](./screenshots)
