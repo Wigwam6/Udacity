@@ -53,6 +53,7 @@ _**Glue jobs to create trusted data:**_
 ![customer_trusted](/screenshots/customer_trusted.png)
 
 **Row_count Check:**
+*(sharewithreasearchasofdate filter used for customers)*
 
 ![trusted_rowcount](/screenshots/trusted_row_count.png)
 
