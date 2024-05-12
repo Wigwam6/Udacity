@@ -52,6 +52,10 @@ _**Glue jobs to create trusted data:**_
 
 ![customer_trusted](/screenshots/customer_trusted.png)
 
+**Customer Trusted Table verification:**
+
+![customer_trusted](/screenshots/customer_trusted_filter.PNG)
+
 **Row_count Check:**  
 *(sharewithreasearchasofdate filter used for customers)*
 
